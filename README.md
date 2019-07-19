@@ -1,2 +1,2 @@
-# cqrs-node-kafka-react
-exemplo de cqrs usando node kafka e react
+# cqrs-node-react
+exemplo de cqrs usando node redis e react (incompleto)
